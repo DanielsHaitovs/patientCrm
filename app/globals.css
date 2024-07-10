@@ -52,6 +52,10 @@
     @apply text-32-bold md:text-36-bold;
   }
 
+  .logo-header {
+    @apply text-24-bold md:text-32-bold;
+  }
+
   .sub-header {
     @apply text-18-bold md:text-24-bold;
   }
